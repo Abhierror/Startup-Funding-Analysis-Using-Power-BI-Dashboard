@@ -10,7 +10,7 @@ funded startups. </p>
 <strong><h3>Problem Statment: </h3></strong>
 <p>Analyze trends in Indian startup funding to identify key sectors, top investors, and historical patterns.</p>
 <strong><h3>Dataset: </h3></strong>
-<p>We collected the dataset from kaggle website.</p><a href="https://www.kaggle.com/datasets/sudalairajkumar/indian-startup-funding">Dataset Link<a><br><br>
+<p>We collected the dataset from kaggle website.</p><a href="https://www.kaggle.com/datasets/sudalairajkumar/indian-startup-funding">Dataset Link<a><br>
 <strong><h3>Tools Used: </h3></strong>
 - Excel : For data cleaning and formating<br>
 - Power BI : For interactive dashboard creation and analysis of charts<br>
